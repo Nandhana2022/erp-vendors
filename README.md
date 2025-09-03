@@ -1,6 +1,32 @@
-# ERP Vendors Module
+# ERP Vendors Management System
 
-A React application for managing vendors and their contact persons in an ERP system.
+A modern React application for managing vendors and their contact information in an ERP system.
+
+## 🌐 Live Demo
+
+[**View Live Application**](https://erp-vendors.vercel.app/login)
+
+## 🚀 Features
+
+- **User Authentication** - Secure login with JWT tokens
+- **Vendor Management** - CRUD operations for vendors
+- **Contact Management** - Manage contact persons for each vendor
+- **Advanced UI** - Glassmorphism design with dark/light mode
+- **Responsive Design** - Works on desktop and mobile devices
+- **Search & Filter** - Advanced search and sorting capabilities
+- **Form Validation** - Client-side validation for all forms
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 18 + Vite
+- **Styling**: Tailwind CSS v3 with custom design system
+- **HTTP Client**: Axios for API calls
+- **Forms**: React Hook Form with validation
+- **Routing**: React Router v6
+- **State Management**: React Context API
+- **Icons**: Heroicons
+- **Deployment**: Vercel
+
 
 ## Setup Instructions
 
